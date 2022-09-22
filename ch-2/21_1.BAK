@@ -1,0 +1,21 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{  int A,B,C,D,E ;
+   A = 10 ;
+   B = 20  ;
+   C = A+B  ;
+   D = A*B;
+   E = A-B;
+    clrscr();
+    printf("ADDITION OF  : %d ",C);
+    printf("\nmultiplication of :%d",D)   ;
+    printf("\nminus of :%d",E);
+
+
+
+    getch();
+
+
+
+}
